@@ -429,7 +429,7 @@ of this software and associated documentation files...
 
 **Jana Ashraf**
 - GitHub: [@janaelpardisi](https://github.com/janaelpardisi)
-- LinkedIn: [Jana Ashraf](https://linkedin.com/in/jana-ashraf)
+- LinkedIn: [Jana Ashraf](https://www.linkedin.com/in/jana-ashraf-elpardisi)
 
 ---
 
