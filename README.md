@@ -458,7 +458,7 @@ Future enhancements:
 
 <div align="center">
 
-**Made with ❤️ and AI**
+**Made with Jana❤️ and AI**
 
 [⬆ Back to Top](#-ai-research-assistant)
 
